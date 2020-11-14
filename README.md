@@ -1,2 +1,2 @@
 # Djang101
-Playing around with the Django framework
+Building a basic website using the Django framework in python. 
